@@ -289,6 +289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47eb4927d522d464d8c4faef2769f090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  segmentPrefab: {fileID: 0}
 --- !u!1001 &126792908896318100
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -478,6 +479,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Food
       objectReference: {fileID: 0}
+    - target: {fileID: 4135193724972427405, guid: b806fd3e2ee223b4283585b7202219c0, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 4135193724972427410, guid: b806fd3e2ee223b4283585b7202219c0, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -626,6 +631,10 @@ PrefabInstance:
     - target: {fileID: 4659498451533729656, guid: 27fcb5315ebde2847b6f3efb468e3761, type: 3}
       propertyPath: m_Name
       value: Snake
+      objectReference: {fileID: 0}
+    - target: {fileID: 4659498451533729656, guid: 27fcb5315ebde2847b6f3efb468e3761, type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 4659498451533729658, guid: 27fcb5315ebde2847b6f3efb468e3761, type: 3}
       propertyPath: m_RootOrder
