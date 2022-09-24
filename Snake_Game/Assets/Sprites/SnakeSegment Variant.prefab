@@ -10,15 +10,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4659498451533729656, guid: 27fcb5315ebde2847b6f3efb468e3761, type: 3}
       propertyPath: m_Name
-      value: SnakeSegment
+      value: SnakeSegment Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4659498451533729656, guid: 27fcb5315ebde2847b6f3efb468e3761, type: 3}
       propertyPath: m_TagString
-      value: Player
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4659498451533729658, guid: 27fcb5315ebde2847b6f3efb468e3761, type: 3}
       propertyPath: m_RootOrder
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4659498451533729658, guid: 27fcb5315ebde2847b6f3efb468e3761, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4659498451533729658, guid: 27fcb5315ebde2847b6f3efb468e3761, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 4659498451533729658, guid: 27fcb5315ebde2847b6f3efb468e3761, type: 3}
       propertyPath: m_LocalPosition.x
